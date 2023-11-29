@@ -1,3 +1,7 @@
+/*
+* Этот код выводит на экран приветствие
+* */
+
 public class Main {
 
     public static void main(String[] args) {
